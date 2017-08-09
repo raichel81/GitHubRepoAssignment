@@ -1,0 +1,1 @@
+this is a repo where I outline the steps of making a repository on githuh and connecting it to a folder on your PC
