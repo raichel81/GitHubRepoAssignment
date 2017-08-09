@@ -1,0 +1,38 @@
+went to my GitHub account
+added a new repository
+went to command line
+
+cd Desktop
+cd DojoAssignments
+cd WebFundamentals
+dir
+cd Git
+dir
+md GitHubRepoAssignment
+cd GitHubRepoAssignment
+copy nul readme.md
+git init
+git status
+git remote add origin git@github.com:raichel81/GitHubRepoAssignment.git
+git push -u origin master
+git status
+git add .
+git commit -m "made a repository and a readme"
+git status
+git remote add origin git@github.com:raichel81/GitHubRepoAssignment.git
+git push -u origin master
+git remote -v
+git remote set-url origin https://github.com/raichel81/GitHubRepoAssignment.git
+git push -u origin master
+code .
+git status
+git commit -m "edited readme"
+git push
+copy nul GitHubRepoAssignment.txt
+doskey /HISTORY > history.txt
+
+copy and paste commands into this file. 
+delete history.txt
+add this file to staging
+merge
+push
